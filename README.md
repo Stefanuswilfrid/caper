@@ -1,3 +1,3 @@
 # caper
 
-this repo is for experimenting of hosting using domain
+Company Profile Project , with a domain hosting :D 
